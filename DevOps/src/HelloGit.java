@@ -6,6 +6,8 @@ public class HelloGit {
 		//This is the line added after the commit
 		
 		System.out.print("After commiting");
+		
+		// Thirsd comment added
 
 	}
 
